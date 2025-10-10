@@ -1,0 +1,14 @@
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\bin\Debug\net9.0\AnonMethodsAndLambdas.exe
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\bin\Debug\net9.0\AnonMethodsAndLambdas.deps.json
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\bin\Debug\net9.0\AnonMethodsAndLambdas.runtimeconfig.json
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\bin\Debug\net9.0\AnonMethodsAndLambdas.dll
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\bin\Debug\net9.0\AnonMethodsAndLambdas.pdb
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\obj\Debug\net9.0\AnonMethodsAndLambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\obj\Debug\net9.0\AnonMethodsAndLambdas.AssemblyInfoInputs.cache
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\obj\Debug\net9.0\AnonMethodsAndLambdas.AssemblyInfo.cs
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\obj\Debug\net9.0\AnonMethodsAndLambdas.csproj.CoreCompileInputs.cache
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\obj\Debug\net9.0\AnonMethodsAndLambdas.dll
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\obj\Debug\net9.0\refint\AnonMethodsAndLambdas.dll
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\obj\Debug\net9.0\AnonMethodsAndLambdas.pdb
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\obj\Debug\net9.0\AnonMethodsAndLambdas.genruntimeconfig.cache
+D:\Trainings\YCPOct25\Daty6\AnonMethodsAndLambdas\obj\Debug\net9.0\ref\AnonMethodsAndLambdas.dll

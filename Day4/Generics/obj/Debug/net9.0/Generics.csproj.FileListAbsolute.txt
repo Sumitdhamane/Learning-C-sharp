@@ -1,0 +1,14 @@
+D:\Trainings\YCPOct25\Day4\Generics\bin\Debug\net9.0\Generics.exe
+D:\Trainings\YCPOct25\Day4\Generics\bin\Debug\net9.0\Generics.deps.json
+D:\Trainings\YCPOct25\Day4\Generics\bin\Debug\net9.0\Generics.runtimeconfig.json
+D:\Trainings\YCPOct25\Day4\Generics\bin\Debug\net9.0\Generics.dll
+D:\Trainings\YCPOct25\Day4\Generics\bin\Debug\net9.0\Generics.pdb
+D:\Trainings\YCPOct25\Day4\Generics\obj\Debug\net9.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YCPOct25\Day4\Generics\obj\Debug\net9.0\Generics.AssemblyInfoInputs.cache
+D:\Trainings\YCPOct25\Day4\Generics\obj\Debug\net9.0\Generics.AssemblyInfo.cs
+D:\Trainings\YCPOct25\Day4\Generics\obj\Debug\net9.0\Generics.csproj.CoreCompileInputs.cache
+D:\Trainings\YCPOct25\Day4\Generics\obj\Debug\net9.0\Generics.dll
+D:\Trainings\YCPOct25\Day4\Generics\obj\Debug\net9.0\refint\Generics.dll
+D:\Trainings\YCPOct25\Day4\Generics\obj\Debug\net9.0\Generics.pdb
+D:\Trainings\YCPOct25\Day4\Generics\obj\Debug\net9.0\Generics.genruntimeconfig.cache
+D:\Trainings\YCPOct25\Day4\Generics\obj\Debug\net9.0\ref\Generics.dll

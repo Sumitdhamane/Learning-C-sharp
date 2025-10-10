@@ -1,0 +1,14 @@
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\bin\Debug\net9.0\collection_PRACTISE.exe
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\bin\Debug\net9.0\collection_PRACTISE.deps.json
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\bin\Debug\net9.0\collection_PRACTISE.runtimeconfig.json
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\bin\Debug\net9.0\collection_PRACTISE.dll
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\bin\Debug\net9.0\collection_PRACTISE.pdb
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\obj\Debug\net9.0\collection_PRACTISE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\obj\Debug\net9.0\collection_PRACTISE.AssemblyInfoInputs.cache
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\obj\Debug\net9.0\collection_PRACTISE.AssemblyInfo.cs
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\obj\Debug\net9.0\collection_PRACTISE.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\obj\Debug\net9.0\collection_PRACTISE.dll
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\obj\Debug\net9.0\refint\collection_PRACTISE.dll
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\obj\Debug\net9.0\collection_PRACTISE.pdb
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\obj\Debug\net9.0\collection_PRACTISE.genruntimeconfig.cache
+C:\Users\exam\Desktop\Day5\collection_PRACTISE\obj\Debug\net9.0\ref\collection_PRACTISE.dll

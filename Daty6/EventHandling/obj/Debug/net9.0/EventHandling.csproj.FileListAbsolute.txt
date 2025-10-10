@@ -1,0 +1,14 @@
+D:\Trainings\YCPOct25\Daty6\EventHandling\bin\Debug\net9.0\EventHandling.exe
+D:\Trainings\YCPOct25\Daty6\EventHandling\bin\Debug\net9.0\EventHandling.deps.json
+D:\Trainings\YCPOct25\Daty6\EventHandling\bin\Debug\net9.0\EventHandling.runtimeconfig.json
+D:\Trainings\YCPOct25\Daty6\EventHandling\bin\Debug\net9.0\EventHandling.dll
+D:\Trainings\YCPOct25\Daty6\EventHandling\bin\Debug\net9.0\EventHandling.pdb
+D:\Trainings\YCPOct25\Daty6\EventHandling\obj\Debug\net9.0\EventHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YCPOct25\Daty6\EventHandling\obj\Debug\net9.0\EventHandling.AssemblyInfoInputs.cache
+D:\Trainings\YCPOct25\Daty6\EventHandling\obj\Debug\net9.0\EventHandling.AssemblyInfo.cs
+D:\Trainings\YCPOct25\Daty6\EventHandling\obj\Debug\net9.0\EventHandling.csproj.CoreCompileInputs.cache
+D:\Trainings\YCPOct25\Daty6\EventHandling\obj\Debug\net9.0\EventHandling.dll
+D:\Trainings\YCPOct25\Daty6\EventHandling\obj\Debug\net9.0\refint\EventHandling.dll
+D:\Trainings\YCPOct25\Daty6\EventHandling\obj\Debug\net9.0\EventHandling.pdb
+D:\Trainings\YCPOct25\Daty6\EventHandling\obj\Debug\net9.0\EventHandling.genruntimeconfig.cache
+D:\Trainings\YCPOct25\Daty6\EventHandling\obj\Debug\net9.0\ref\EventHandling.dll

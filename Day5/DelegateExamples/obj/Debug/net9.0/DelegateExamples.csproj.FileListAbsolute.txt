@@ -1,0 +1,14 @@
+D:\Trainings\YCPOct25\Day5\DelegateExamples\bin\Debug\net9.0\DelegateExamples.exe
+D:\Trainings\YCPOct25\Day5\DelegateExamples\bin\Debug\net9.0\DelegateExamples.deps.json
+D:\Trainings\YCPOct25\Day5\DelegateExamples\bin\Debug\net9.0\DelegateExamples.runtimeconfig.json
+D:\Trainings\YCPOct25\Day5\DelegateExamples\bin\Debug\net9.0\DelegateExamples.dll
+D:\Trainings\YCPOct25\Day5\DelegateExamples\bin\Debug\net9.0\DelegateExamples.pdb
+D:\Trainings\YCPOct25\Day5\DelegateExamples\obj\Debug\net9.0\DelegateExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YCPOct25\Day5\DelegateExamples\obj\Debug\net9.0\DelegateExamples.AssemblyInfoInputs.cache
+D:\Trainings\YCPOct25\Day5\DelegateExamples\obj\Debug\net9.0\DelegateExamples.AssemblyInfo.cs
+D:\Trainings\YCPOct25\Day5\DelegateExamples\obj\Debug\net9.0\DelegateExamples.csproj.CoreCompileInputs.cache
+D:\Trainings\YCPOct25\Day5\DelegateExamples\obj\Debug\net9.0\DelegateExamples.dll
+D:\Trainings\YCPOct25\Day5\DelegateExamples\obj\Debug\net9.0\refint\DelegateExamples.dll
+D:\Trainings\YCPOct25\Day5\DelegateExamples\obj\Debug\net9.0\DelegateExamples.pdb
+D:\Trainings\YCPOct25\Day5\DelegateExamples\obj\Debug\net9.0\DelegateExamples.genruntimeconfig.cache
+D:\Trainings\YCPOct25\Day5\DelegateExamples\obj\Debug\net9.0\ref\DelegateExamples.dll

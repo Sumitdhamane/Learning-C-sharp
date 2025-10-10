@@ -1,0 +1,14 @@
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.exe
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.deps.json
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.runtimeconfig.json
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.dll
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.pdb
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.AssemblyInfo.cs
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.dll
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\obj\Debug\net9.0\refint\ExtensionMethods.dll
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.pdb
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.genruntimeconfig.cache
+D:\Trainings\YCPOct25\Day7\ExtensionMethods\obj\Debug\net9.0\ref\ExtensionMethods.dll
