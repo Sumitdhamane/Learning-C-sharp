@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Trainings\\YCPOct25\\Day7\\LinqExample\\LinqExample.csproj": {}
+    "C:\\Users\\exam\\Desktop\\learn C#\\Day7\\LinqExample\\LinqExample.csproj": {}
   },
   "projects": {
-    "D:\\Trainings\\YCPOct25\\Day7\\LinqExample\\LinqExample.csproj": {
+    "C:\\Users\\exam\\Desktop\\learn C#\\Day7\\LinqExample\\LinqExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trainings\\YCPOct25\\Day7\\LinqExample\\LinqExample.csproj",
+        "projectUniqueName": "C:\\Users\\exam\\Desktop\\learn C#\\Day7\\LinqExample\\LinqExample.csproj",
         "projectName": "LinqExample",
-        "projectPath": "D:\\Trainings\\YCPOct25\\Day7\\LinqExample\\LinqExample.csproj",
-        "packagesPath": "C:\\Users\\vikra\\.nuget\\packages\\",
-        "outputPath": "D:\\Trainings\\YCPOct25\\Day7\\LinqExample\\obj\\",
+        "projectPath": "C:\\Users\\exam\\Desktop\\learn C#\\Day7\\LinqExample\\LinqExample.csproj",
+        "packagesPath": "C:\\Users\\exam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\exam\\Desktop\\learn C#\\Day7\\LinqExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vikra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\exam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

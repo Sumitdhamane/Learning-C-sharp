@@ -1,0 +1,14 @@
+D:\Trainings\YCPOct25\Day8\LinqExample3\obj\Debug\net9.0\LinqExample3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YCPOct25\Day8\LinqExample3\obj\Debug\net9.0\LinqExample3.AssemblyInfoInputs.cache
+D:\Trainings\YCPOct25\Day8\LinqExample3\obj\Debug\net9.0\LinqExample3.AssemblyInfo.cs
+D:\Trainings\YCPOct25\Day8\LinqExample3\obj\Debug\net9.0\LinqExample3.csproj.CoreCompileInputs.cache
+D:\Trainings\YCPOct25\Day8\LinqExample3\bin\Debug\net9.0\LinqExample3.exe
+D:\Trainings\YCPOct25\Day8\LinqExample3\bin\Debug\net9.0\LinqExample3.deps.json
+D:\Trainings\YCPOct25\Day8\LinqExample3\bin\Debug\net9.0\LinqExample3.runtimeconfig.json
+D:\Trainings\YCPOct25\Day8\LinqExample3\bin\Debug\net9.0\LinqExample3.dll
+D:\Trainings\YCPOct25\Day8\LinqExample3\bin\Debug\net9.0\LinqExample3.pdb
+D:\Trainings\YCPOct25\Day8\LinqExample3\obj\Debug\net9.0\LinqExample3.dll
+D:\Trainings\YCPOct25\Day8\LinqExample3\obj\Debug\net9.0\refint\LinqExample3.dll
+D:\Trainings\YCPOct25\Day8\LinqExample3\obj\Debug\net9.0\LinqExample3.pdb
+D:\Trainings\YCPOct25\Day8\LinqExample3\obj\Debug\net9.0\LinqExample3.genruntimeconfig.cache
+D:\Trainings\YCPOct25\Day8\LinqExample3\obj\Debug\net9.0\ref\LinqExample3.dll

@@ -1,0 +1,29 @@
+D:\Trainings\YCPOct25\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.exe
+D:\Trainings\YCPOct25\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.deps.json
+D:\Trainings\YCPOct25\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.runtimeconfig.json
+D:\Trainings\YCPOct25\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.dll
+D:\Trainings\YCPOct25\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.pdb
+D:\Trainings\YCPOct25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YCPOct25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.AssemblyInfoInputs.cache
+D:\Trainings\YCPOct25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.AssemblyInfo.cs
+D:\Trainings\YCPOct25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.csproj.CoreCompileInputs.cache
+D:\Trainings\YCPOct25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.dll
+D:\Trainings\YCPOct25\Day7\LinqExample2\obj\Debug\net9.0\refint\LinqExample2.dll
+D:\Trainings\YCPOct25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.pdb
+D:\Trainings\YCPOct25\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.genruntimeconfig.cache
+D:\Trainings\YCPOct25\Day7\LinqExample2\obj\Debug\net9.0\ref\LinqExample2.dll
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.exe
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.deps.json
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.runtimeconfig.json
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.dll
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\bin\Debug\net9.0\LinqExample2.pdb
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.AssemblyInfoInputs.cache
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.AssemblyInfo.cs
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.sourcelink.json
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.dll
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\obj\Debug\net9.0\refint\LinqExample2.dll
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.pdb
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\obj\Debug\net9.0\LinqExample2.genruntimeconfig.cache
+C:\Users\exam\Desktop\learn C#\Day7\LinqExample2\obj\Debug\net9.0\ref\LinqExample2.dll

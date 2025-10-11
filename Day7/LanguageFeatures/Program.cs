@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main()
+        static void Main1()
         {
             int i = 100;
             var j = 100; //implicit variable
@@ -74,7 +74,7 @@ namespace PartialMethods
 {
     public class MainClass
     {
-        public static void Main1()
+        public static void Main()
         {
             Class1 o = new Class1();
             Console.WriteLine(o.Check());

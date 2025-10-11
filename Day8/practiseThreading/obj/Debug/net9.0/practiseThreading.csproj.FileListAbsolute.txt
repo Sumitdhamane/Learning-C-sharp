@@ -1,0 +1,15 @@
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\bin\Debug\net9.0\practiseThreading.exe
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\bin\Debug\net9.0\practiseThreading.deps.json
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\bin\Debug\net9.0\practiseThreading.runtimeconfig.json
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\bin\Debug\net9.0\practiseThreading.dll
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\bin\Debug\net9.0\practiseThreading.pdb
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\obj\Debug\net9.0\practiseThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\obj\Debug\net9.0\practiseThreading.AssemblyInfoInputs.cache
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\obj\Debug\net9.0\practiseThreading.AssemblyInfo.cs
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\obj\Debug\net9.0\practiseThreading.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\obj\Debug\net9.0\practiseThreading.sourcelink.json
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\obj\Debug\net9.0\practiseThreading.dll
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\obj\Debug\net9.0\refint\practiseThreading.dll
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\obj\Debug\net9.0\practiseThreading.pdb
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\obj\Debug\net9.0\practiseThreading.genruntimeconfig.cache
+C:\Users\exam\Desktop\learn C#\Day8\practiseThreading\obj\Debug\net9.0\ref\practiseThreading.dll

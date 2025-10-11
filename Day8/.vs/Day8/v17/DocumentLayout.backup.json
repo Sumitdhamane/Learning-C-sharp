@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\exam\\Desktop\\learn C#\\Day8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE90D23C-52C7-4F67-B3D8-AA60278F11D5}|practiseThreading\\practiseThreading.csproj|c:\\users\\exam\\desktop\\learn c#\\day8\\practisethreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE90D23C-52C7-4F67-B3D8-AA60278F11D5}|practiseThreading\\practiseThreading.csproj|solutionrelative:practisethreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD7085D-E8E9-4A02-A185-F59B4505F74A}|ThreadingExamples1\\ThreadingExamples1.csproj|c:\\users\\exam\\desktop\\learn c#\\day8\\threadingexamples1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD7085D-E8E9-4A02-A185-F59B4505F74A}|ThreadingExamples1\\ThreadingExamples1.csproj|solutionrelative:threadingexamples1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C98FB-6E2B-498F-9CAD-8D49D81228B1}|LinqExample3\\LinqExample3.csproj|c:\\users\\exam\\desktop\\learn c#\\day8\\linqexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C98FB-6E2B-498F-9CAD-8D49D81228B1}|LinqExample3\\LinqExample3.csproj|solutionrelative:linqexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\learn C#\\Day8\\practiseThreading\\Program.cs",
+              "RelativeDocumentMoniker": "practiseThreading\\Program.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\learn C#\\Day8\\practiseThreading\\Program.cs*",
+              "RelativeToolTip": "practiseThreading\\Program.cs*",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T06:01:11.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\learn C#\\Day8\\ThreadingExamples1\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadingExamples1\\Program.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\learn C#\\Day8\\ThreadingExamples1\\Program.cs",
+              "RelativeToolTip": "ThreadingExamples1\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T03:59:34.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\exam\\Desktop\\learn C#\\Day8\\LinqExample3\\Program.cs",
+              "RelativeDocumentMoniker": "LinqExample3\\Program.cs",
+              "ToolTip": "C:\\Users\\exam\\Desktop\\learn C#\\Day8\\LinqExample3\\Program.cs",
+              "RelativeToolTip": "LinqExample3\\Program.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T02:29:01.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

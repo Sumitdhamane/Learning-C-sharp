@@ -1,0 +1,29 @@
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.AssemblyInfoInputs.cache
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.AssemblyInfo.cs
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.csproj.CoreCompileInputs.cache
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\bin\Debug\net9.0\ThreadingExamples1.exe
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\bin\Debug\net9.0\ThreadingExamples1.deps.json
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\bin\Debug\net9.0\ThreadingExamples1.runtimeconfig.json
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\bin\Debug\net9.0\ThreadingExamples1.dll
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\bin\Debug\net9.0\ThreadingExamples1.pdb
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.dll
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\obj\Debug\net9.0\refint\ThreadingExamples1.dll
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.pdb
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.genruntimeconfig.cache
+D:\Trainings\YCPOct25\Day8\ThreadingExamples1\obj\Debug\net9.0\ref\ThreadingExamples1.dll
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\bin\Debug\net9.0\ThreadingExamples1.exe
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\bin\Debug\net9.0\ThreadingExamples1.deps.json
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\bin\Debug\net9.0\ThreadingExamples1.runtimeconfig.json
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\bin\Debug\net9.0\ThreadingExamples1.dll
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\bin\Debug\net9.0\ThreadingExamples1.pdb
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.AssemblyInfoInputs.cache
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.AssemblyInfo.cs
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.sourcelink.json
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.dll
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\obj\Debug\net9.0\refint\ThreadingExamples1.dll
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.pdb
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\obj\Debug\net9.0\ThreadingExamples1.genruntimeconfig.cache
+C:\Users\exam\Desktop\learn C#\Day8\ThreadingExamples1\obj\Debug\net9.0\ref\ThreadingExamples1.dll

@@ -12,17 +12,3 @@ D:\Trainings\YCPOct25\Day7\LanguageFeatures\obj\Debug\net9.0\refint\LanguageFeat
 D:\Trainings\YCPOct25\Day7\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.pdb
 D:\Trainings\YCPOct25\Day7\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.genruntimeconfig.cache
 D:\Trainings\YCPOct25\Day7\LanguageFeatures\obj\Debug\net9.0\ref\LanguageFeatures.dll
-C:\Users\exam\Desktop\Day7\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\exam\Desktop\Day7\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.AssemblyInfoInputs.cache
-C:\Users\exam\Desktop\Day7\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.AssemblyInfo.cs
-C:\Users\exam\Desktop\Day7\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.csproj.CoreCompileInputs.cache
-C:\Users\exam\Desktop\Day7\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.dll
-C:\Users\exam\Desktop\Day7\LanguageFeatures\obj\Debug\net9.0\refint\LanguageFeatures.dll
-C:\Users\exam\Desktop\Day7\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.pdb
-C:\Users\exam\Desktop\Day7\LanguageFeatures\bin\Debug\net9.0\LanguageFeatures.exe
-C:\Users\exam\Desktop\Day7\LanguageFeatures\bin\Debug\net9.0\LanguageFeatures.deps.json
-C:\Users\exam\Desktop\Day7\LanguageFeatures\bin\Debug\net9.0\LanguageFeatures.runtimeconfig.json
-C:\Users\exam\Desktop\Day7\LanguageFeatures\bin\Debug\net9.0\LanguageFeatures.dll
-C:\Users\exam\Desktop\Day7\LanguageFeatures\bin\Debug\net9.0\LanguageFeatures.pdb
-C:\Users\exam\Desktop\Day7\LanguageFeatures\obj\Debug\net9.0\LanguageFeatures.genruntimeconfig.cache
-C:\Users\exam\Desktop\Day7\LanguageFeatures\obj\Debug\net9.0\ref\LanguageFeatures.dll

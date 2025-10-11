@@ -39,9 +39,116 @@
             lstEmp.Add(new Employee { EmpNo = 8, Name = "Shraddha", Basic = 11000, DeptNo = 40, Gender = "F" });
         }
 
+        static void Main1()
+        {
+            AddRecs();
+            //var returnvalue = from single_object in collection select something;
+            var emps = from emp in lstEmp select emp;
+            //IEnumerable<Employee> emps = from emp in lstEmp select emp;
+
+            foreach (var item in emps)
+            {
+                Console.WriteLine(item);
+            }
+        }
+        static void Main2()
+        {
+            AddRecs();
+            var emps = from emp in lstEmp select emp.EmpNo;
+            //var emps = from emp in lstEmp select emp.Name;
+            foreach (var item in emps)
+            {
+                Console.WriteLine(item);
+            }
+        }
         static void Main()
         {
+            AddRecs();
+            var emps = from emp in lstEmp select new { emp.EmpNo, emp.Name };
             
+
+            foreach (var item in emps)
+            {
+                Console.WriteLine(item);
+            }
+        }
+
+        static void Main4()
+        {
+            AddRecs();
+            var emps = from emp in lstEmp
+                       where emp.Basic > 10000
+                       select emp;
+            //var emps = from emp in lstEmp
+            //           where emp.Basic > 10000 && emp.Basic < 12000
+            //           select emp;
+            //var emps = from emp in lstEmp
+            //           where emp.Name.StartsWith("V")
+            //           select emp;
+            foreach (var item in emps)
+            {
+                Console.WriteLine(item);
+            }
+        }
+
+        static void Main5()
+        {
+            AddRecs();
+            var emps = from emp in lstEmp
+                           //where emp.Basic > 10000
+                       orderby emp.Name
+                       select emp;
+            //var emps = from emp in lstEmp
+            //           orderby emp.Name descending
+            //           select emp;
+
+            //var emps = from emp in lstEmp
+            //           orderby emp.DeptNo ascending, emp.Name descending
+            //           select emp;
+            foreach (var emp in emps)
+            {
+                Console.WriteLine(emp);
+            }
+
+            Console.ReadLine();
+        }
+
+        static void Main6()
+        {
+            AddRecs();
+            var emps = from emp in lstEmp
+                       join dept in lstDept
+                       on emp.DeptNo equals dept.DeptNo
+                       select new {emp, dept };
+
+            foreach (var item in emps)
+            {
+                Console.WriteLine(item.emp.Name);
+                Console.WriteLine(item.dept.DeptName);
+
+            }
+           
+
+            foreach (var item in emps)
+            {
+                Console.WriteLine(item.emp.Name);
+                Console.WriteLine(item.dept.DeptName);
+            }
+            var emps2 = from emp in lstEmp
+                        join dept in lstDept
+                        on emp.DeptNo equals dept.DeptNo
+                        select new { emp.Name, dept.DeptName };
+            foreach (var item in emps2)
+            {
+                Console.WriteLine(item.Name);
+                Console.WriteLine(item.DeptName);
+
+            }
+
+
+
+
+
         }
     }
 }
