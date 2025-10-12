@@ -1,0 +1,14 @@
+D:\presentation\jageed\bin\Debug\net8.0\jageed.exe
+D:\presentation\jageed\bin\Debug\net8.0\jageed.deps.json
+D:\presentation\jageed\bin\Debug\net8.0\jageed.runtimeconfig.json
+D:\presentation\jageed\bin\Debug\net8.0\jageed.dll
+D:\presentation\jageed\bin\Debug\net8.0\jageed.pdb
+D:\presentation\jageed\obj\Debug\net8.0\jageed.GeneratedMSBuildEditorConfig.editorconfig
+D:\presentation\jageed\obj\Debug\net8.0\jageed.AssemblyInfoInputs.cache
+D:\presentation\jageed\obj\Debug\net8.0\jageed.AssemblyInfo.cs
+D:\presentation\jageed\obj\Debug\net8.0\jageed.csproj.CoreCompileInputs.cache
+D:\presentation\jageed\obj\Debug\net8.0\jageed.dll
+D:\presentation\jageed\obj\Debug\net8.0\refint\jageed.dll
+D:\presentation\jageed\obj\Debug\net8.0\jageed.pdb
+D:\presentation\jageed\obj\Debug\net8.0\jageed.genruntimeconfig.cache
+D:\presentation\jageed\obj\Debug\net8.0\ref\jageed.dll

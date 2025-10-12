@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\presentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBD68BE-5962-4B3F-88FD-8D5704B313BC}|searchEmp\\searchEmp.csproj|d:\\presentation\\searchemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBD68BE-5962-4B3F-88FD-8D5704B313BC}|searchEmp\\searchEmp.csproj|solutionrelative:searchemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB24711-A822-4A33-84BE-7E6CFAB9C3EA}|jageed\\jageed.csproj|d:\\presentation\\jageed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB24711-A822-4A33-84BE-7E6CFAB9C3EA}|jageed\\jageed.csproj|solutionrelative:jageed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1D9F36-DDAD-4999-A025-49C31DEF5301}|employee2\\employee2.csproj|d:\\presentation\\employee2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1D9F36-DDAD-4999-A025-49C31DEF5301}|employee2\\employee2.csproj|solutionrelative:employee2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BBDA54-4D36-4AAD-8EA3-E116F4B596DC}|employee1\\employee1.csproj|d:\\presentation\\employee1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BBDA54-4D36-4AAD-8EA3-E116F4B596DC}|employee1\\employee1.csproj|solutionrelative:employee1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C202C63D-728A-49A7-8116-4A07A133F8AE}|thread\\thread.csproj|d:\\presentation\\thread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C202C63D-728A-49A7-8116-4A07A133F8AE}|thread\\thread.csproj|solutionrelative:thread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1572562-5EBF-4899-AE4B-AA66802EC103}|presentation\\presentation.csproj|d:\\presentation\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1572562-5EBF-4899-AE4B-AA66802EC103}|presentation\\presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\presentation\\searchEmp\\Program.cs",
+              "RelativeDocumentMoniker": "searchEmp\\Program.cs",
+              "ToolTip": "D:\\presentation\\searchEmp\\Program.cs",
+              "RelativeToolTip": "searchEmp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:41:37.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\presentation\\jageed\\Program.cs",
+              "RelativeDocumentMoniker": "jageed\\Program.cs",
+              "ToolTip": "D:\\presentation\\jageed\\Program.cs",
+              "RelativeToolTip": "jageed\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:04:49.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\presentation\\employee2\\Program.cs",
+              "RelativeDocumentMoniker": "employee2\\Program.cs",
+              "ToolTip": "D:\\presentation\\employee2\\Program.cs",
+              "RelativeToolTip": "employee2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T12:06:33.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\presentation\\employee1\\Program.cs",
+              "RelativeDocumentMoniker": "employee1\\Program.cs",
+              "ToolTip": "D:\\presentation\\employee1\\Program.cs",
+              "RelativeToolTip": "employee1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T08:09:51.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\presentation\\thread\\Program.cs",
+              "RelativeDocumentMoniker": "thread\\Program.cs",
+              "ToolTip": "D:\\presentation\\thread\\Program.cs",
+              "RelativeToolTip": "thread\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvx4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:45:10.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\presentation\\presentation\\Program.cs",
+              "RelativeDocumentMoniker": "presentation\\Program.cs",
+              "ToolTip": "D:\\presentation\\presentation\\Program.cs",
+              "RelativeToolTip": "presentation\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T05:53:30.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

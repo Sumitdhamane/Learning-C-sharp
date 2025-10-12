@@ -1,0 +1,14 @@
+D:\presentation\presentation\bin\Debug\net8.0\presentation.exe
+D:\presentation\presentation\bin\Debug\net8.0\presentation.deps.json
+D:\presentation\presentation\bin\Debug\net8.0\presentation.runtimeconfig.json
+D:\presentation\presentation\bin\Debug\net8.0\presentation.dll
+D:\presentation\presentation\bin\Debug\net8.0\presentation.pdb
+D:\presentation\presentation\obj\Debug\net8.0\presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\presentation\presentation\obj\Debug\net8.0\presentation.AssemblyInfoInputs.cache
+D:\presentation\presentation\obj\Debug\net8.0\presentation.AssemblyInfo.cs
+D:\presentation\presentation\obj\Debug\net8.0\presentation.csproj.CoreCompileInputs.cache
+D:\presentation\presentation\obj\Debug\net8.0\presentation.dll
+D:\presentation\presentation\obj\Debug\net8.0\refint\presentation.dll
+D:\presentation\presentation\obj\Debug\net8.0\presentation.pdb
+D:\presentation\presentation\obj\Debug\net8.0\presentation.genruntimeconfig.cache
+D:\presentation\presentation\obj\Debug\net8.0\ref\presentation.dll
